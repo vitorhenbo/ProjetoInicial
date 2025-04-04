@@ -42,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGVzdGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/Pages/Titulo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGl0dWxvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
