@@ -4,6 +4,7 @@
 @using ProjetoInicial
 
 <Titulo Texto="Cadastro de Produtos"></Titulo>
+<Mensagem Msg=@msg></Mensagem>
 
 <label class="text-muted">Nome</label>
 <input @bind-value=produto.Nome class="form-control" />
@@ -14,7 +15,7 @@
 <label class="text-muted">Quantidade</label>
 <input @bind-value=produto.Quantidade class="form-control" />
 
-
+<button @onclick="Incluir" class="=mt-3 btn btn-primary">Incluir</button>
 
 <div class="p-5 border shadow mt-3">
     <h4 class="text-center">Produto Cadastrado</h4>
@@ -29,12 +30,17 @@
 @code {
 
     Produto produto = new Produto();
-
+    private string msg = "";
     private void ColocaDados()
     {
         produto.Nome = "Caneta";
         produto.Preco = 10;
         produto.Quantidade = 7;
+    }
+
+    private void Incluir()
+    {
+        msg = "Produto cadastrado";
     }
 
 }

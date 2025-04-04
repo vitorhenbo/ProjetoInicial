@@ -1089,10 +1089,10 @@
 /Users/vitorhenbo/Documents/Projetos/ProjetoInicial/obj/Debug/net10.0/refint/ProjetoInicial.dll
 /Users/vitorhenbo/Documents/Projetos/ProjetoInicial/obj/Debug/net10.0/ProjetoInicial.pdb
 /Users/vitorhenbo/Documents/Projetos/ProjetoInicial/obj/Debug/net10.0/ref/ProjetoInicial.dll
-/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/bin/Debug/net10.0/wwwroot/_framework/ProjetoInicial.yrxktuo6sh.wasm
-/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/bin/Debug/net10.0/wwwroot/_framework/ProjetoInicial.z9falf3i59.pdb
-/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/bin/Debug/net10.0/wwwroot/_framework/ProjetoInicial.yrxktuo6sh.wasm.gz
-/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/bin/Debug/net10.0/wwwroot/_framework/ProjetoInicial.z9falf3i59.pdb.gz
-/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/obj/Debug/net10.0/compressed/ppxw56s1ae-yrxktuo6sh.gz
-/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/obj/Debug/net10.0/compressed/rh4xhyxey3-z9falf3i59.gz
-/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/obj/Debug/net10.0/compressed/wg6sjoony0-3ld7ts4w7o.gz
+/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/bin/Debug/net10.0/wwwroot/_framework/ProjetoInicial.ts6txascb1.wasm
+/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/bin/Debug/net10.0/wwwroot/_framework/ProjetoInicial.8r5duwy1x5.pdb
+/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/bin/Debug/net10.0/wwwroot/_framework/ProjetoInicial.ts6txascb1.wasm.gz
+/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/bin/Debug/net10.0/wwwroot/_framework/ProjetoInicial.8r5duwy1x5.pdb.gz
+/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/obj/Debug/net10.0/compressed/ppxw56s1ae-ts6txascb1.gz
+/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/obj/Debug/net10.0/compressed/rh4xhyxey3-8r5duwy1x5.gz
+/Users/vitorhenbo/Documents/Projetos/ProjetoInicial/obj/Debug/net10.0/compressed/wg6sjoony0-c46gqutcqb.gz
