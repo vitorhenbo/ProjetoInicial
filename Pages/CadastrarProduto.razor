@@ -1,0 +1,40 @@
+﻿@*@page "/cadastrarproduto"*@
+@page "/"
+
+@using ProjetoInicial
+
+<Titulo Texto="Cadastro de Produtos"></Titulo>
+
+<label class="text-muted">Nome</label>
+<input @bind-value=produto.Nome class="form-control" />
+
+<label class="text-muted">Preço</label>
+<input @bind-value=produto.Preco class="form-control" />
+
+<label class="text-muted">Quantidade</label>
+<input @bind-value=produto.Quantidade class="form-control" />
+
+
+
+<div class="p-5 border shadow mt-3">
+    <h4 class="text-center">Produto Cadastrado</h4>
+    @produto.Nome<br />
+    @produto.Preco<br />
+    @produto.Quantidade<br />
+    @produto.ValorEstoqueTotal()<br />
+</div>
+
+<button @onclick="ColocaDados" class="btn btn-primary mt-3">Colocar dados</button>
+
+@code {
+
+    Produto produto = new Produto();
+
+    private void ColocaDados()
+    {
+        produto.Nome = "Caneta";
+        produto.Preco = 10;
+        produto.Quantidade = 7;
+    }
+
+}
